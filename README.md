@@ -46,6 +46,8 @@ En las pruebas también se implementaron operaciones para mostrar los elementos,
 
 ### Opción 1: GitHub Codespaces
 
+[![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=master&repo=lauramirez18/ModelosProgramacionII)
+
 El proyecto puede ejecutarse directamente desde GitHub utilizando **GitHub Codespaces**, sin necesidad de instalar Java localmente.
 
 1. Ingresar al repositorio en GitHub.
